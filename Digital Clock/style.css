@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+  }
+  body{
+    background: linear-gradient(135deg, #8052ec, #d161ff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .clock{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+  }
+  
+  .clock div{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 150px;
+    margin: 20px;
+  }
+  span{
+    font-size: 100px;
+    font-weight: bolder;
+    color: white;
+  }
+  
+  @media screen and (max-width: 1040px) {
+    span {
+      visibility: hidden;
+    }
+  }
+  
