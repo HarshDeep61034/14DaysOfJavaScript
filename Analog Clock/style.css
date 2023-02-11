@@ -64,3 +64,11 @@ body{
     border-radius: 50%;
     z-index: 3;
 }
+
+@media screen and (max-width: 877px) {
+  .dot{
+    border: 1px solid white;
+    left: 45.2%;
+  }
+
+}
