@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background: #34348E;
+    min-height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    margin: 10px 0 20px;
+}
+input[type='text']{
+   height: 25px;
+   width: 50px;
+}
+
+.container{
+    background-color: #201F52;
+    border-radius: 5px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+    width: 350px;
+    max-width: 100%;
+    padding: 20px;
+}
+
+.result-container{
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 12px 10px;
+    height: 50px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.result-container #result {
+    word-wrap: break-word;
+    max-width: 100%-40%;
+}
+
+.result-container .btn{
+
+    font-size: 20px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 40px;
+    width: 40px;
+
+}
+
+.btn{
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 8px 12px;
+    background-color: #34348E;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: #2b2b75;
+}
+.btn:active{
+    background-color: #3a3a92;
+}
+.btn-large{
+    display: block;
+    width: 100%;
+    
+}
+
+.setting{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0;
+}
+
+@media screen and (max-width: 400px) {
+    .result-container{
+        font-size: 14px;
+    }
+}
