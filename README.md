@@ -6,7 +6,7 @@
 | ✅ | Analog Clock              | 11-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Analog%20Clock) | [Click Here](https://14-days-of-java-script-dpxq.vercel.app/) |
 | ✅  | Month Calendar            | 12-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Month%20Calendar) | [Click Here](https://14-days-of-java-script-d63c.vercel.app/) |
 | ✅  | Random Password Generator | 13-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | [Click Here](https://benevolent-hummingbird-292201.netlify.app/) |
-| [x] | Star Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | [Click Here](https://loquacious-hummingbird-4cb4cf.netlify.app/) |
+ [x]  Star Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | [Click Here](https://loquacious-hummingbird-4cb4cf.netlify.app/) |
 | ❌ | Animated Search Bar       | 15-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Animated%20Search%20Bar) | Coming Soon    |
 | ❌ | Sticky Navbar             | 16-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Sticky%20Navbar) | Coming Soon    |
 | ❌ | Dark Mode Toggle          | 17-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Dark%20Mode%20Toggle) | Coming Soon    |
