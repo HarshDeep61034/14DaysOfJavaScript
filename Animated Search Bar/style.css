@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #00ED64;
+    font-family: 'Lato', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #caf7ff;
+}
+
+.search{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background: #00ED64;
+    border-radius: 60px;
+    transition: 0.5s;
+    overflow: hidden;
+    box-shadow: 0 0 0 1.5px #00684A;
+}
+.search.active{
+    width: 360px;
+}
+.search .icon{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 60px;
+    height: 60px;
+    background: #00ED64;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 60px;
+    z-index: 1000;
+    cursor: pointer;
+}
+
+.search .icon::before{
+    content: '';
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    border: 3px solid #00684A;
+    border-radius:  50%;
+    transform: translate(-4px,-4px);
+}
+.search .icon::after{
+    content: '';
+    position: absolute;
+    width: 3px;
+    height: 12px;
+    background: #00684A;
+    border-radius:  50%;
+    transform: translate(6px,6px) rotate(315deg);
+}
+
+.search .input
+{
+    position: relative;
+    width: 300px;
+    height: 60px;
+    left: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search .input input::placeholder
+{
+   color: #00684A;
+}
+
+.search .input input{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+    font-size: 18px;
+}
