@@ -8,7 +8,7 @@
 | ✅  | Random Password Generator | 13-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | [Click Here](https://benevolent-hummingbird-292201.netlify.app/) |
 | ✅ | Star Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Star%20Trail%20Animation) | [Click Here](https://loquacious-hummingbird-4cb4cf.netlify.app/) |
 | ✅ | Animated Search Bar       | 15-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Animated%20Search%20Bar) | [Click Here](https://glittering-phoenix-1ced6e.netlify.app/) |
-| ❌ | Sticky Navbar             | 16-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Sticky%20Navbar) | Coming Soon    |
+| ✅ | Sticky Navbar             | 16-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Sticky%20Navbar) |[Click Here](https://lustrous-quokka-0d688f.netlify.app/) |
 | ❌ | Dark Mode Toggle          | 17-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Dark%20Mode%20Toggle) | Coming Soon    |
 | ❌ | Auto Text Effect Animation| 18-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Auto%20Text%20Effect%20Animation) |Coming Soon|
 | ❌ | Image Slider              | 19-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Image%20Slider) | Coming Soon    |
