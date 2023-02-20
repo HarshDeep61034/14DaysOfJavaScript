@@ -1,0 +1,91 @@
+:root{
+    --line-border-fill: #5372EF;
+    --line-border-empty: #bdbdbd;
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    min-height: 100vh;
+    overflow: hidden;
+    background: linear-gradient(135deg,#fe8c00, #f83600);
+}
+
+h1{
+   margin-bottom: 4rem;
+   font-size: 60px;
+   color: white;
+}
+.container{
+    margin: auto;
+    text-align: center;
+   
+}
+
+.circle{
+    font-size: 3rem;
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(135deg,#fe8c00, #f83600);
+    border: 3px solid #bdbdbd;
+    border-radius: 45%;
+    transition: all 0.4s;
+
+}
+
+.active{
+    border: 3px solid #5372EF;
+}
+
+.progress-container{
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin-bottom: 30px;
+    width: 500px;
+    position: relative;
+}
+
+.progress-container::before{
+    content: "";
+    background: var(--line-border-empty);
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    height: 4px;
+    width: 100%;
+    z-index: -1;
+    transition: all 0.4s;
+}
+.progress{
+    background: var(--line-border-fill);
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    height: 4px;
+    width: 0%;
+    z-index: -1;
+    transition: all 0.4s;
+}
+
+.btn{
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    margin: 15px;
+    background: #5372EF;
+    border: none;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.btn:hover{
+    background: #3856d1;
+}
