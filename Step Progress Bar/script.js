@@ -4,6 +4,7 @@ var circle2 = document.getElementById('circle2');
 var circle3 = document.getElementById('circle3');
 var circle4 = document.getElementById('circle4');
 var prev = document.getElementById('prev');
+var next = document.getElementById('next');
 
 var x = 0;
 document.getElementById('next').onclick = function(){
@@ -26,6 +27,8 @@ document.getElementById('next').onclick = function(){
     else if(x === 3){
         bar.style.width = "100%";
         circle4.classList.toggle('active');
+        next.setAttribute('disabled');
+        
     }
     
 }
@@ -35,6 +38,7 @@ document.getElementById('prev').onclick = function(){
     if(x === 1){
     bar.style.width = "0%";
     circle2.classList.toggle('active');
+
     }
     else if(x === 2){
         bar.style.width = "30%";
