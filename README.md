@@ -12,7 +12,7 @@
 | ✅  | Dark Mode Toggle          | 17-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Dark%20Mode%20Toggle) |[Click Here](https://golden-unicorn-5689ba.netlify.app/) |
 | ✅ | Auto Text Effect Animation| 18-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Auto%20Text%20Effect%20Animation) | [Click Here](https://adorable-rolypoly-abc712.netlify.app/) |
 | ✅ | Image Slider              | 19-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Image%20Slider) | [Click Here](https://bespoke-rolypoly-432597.netlify.app/) |
-| ❌ | Step Progress Bar         | 20-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) | Coming Soon    |
+| ✅  | Step Progress Bar         | 20-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) | [Click Here](https://astounding-manatee-3b3d9d.netlify.app/) |
 | ❌ | English Dictionary        | 21-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/English%20Dictionary) | Coming Soon    |
 | ❌ | Random Quote Generator    | 22-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Random%20Quote%20Generator) | Coming Soon    |
 | ❌ | Note App                  | 23-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Note%20App) | Coming Soon    |
