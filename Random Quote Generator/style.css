@@ -1,0 +1,44 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+  background-color: #FEDC32;
+  font-family: 'Poppins', sans-serif;
+}
+main{
+  max-width: 100vw;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.quote{
+  font-size: 35px;
+  margin: 100px;
+}
+img{
+  margin: 25px;
+}
+.name1{
+  font-size: 70px;
+  position: relative;
+  top: -40px;
+}
+.name2{
+  font-size: 70px;
+  position: relative;
+  top: -40px;
+  margin-left: 20px;
+}
+
+@media screen and (max-width: 628px) {
+  .name2{
+    left: 150px;
+  }
+}
+footer{
+  text-align: center;
+}
