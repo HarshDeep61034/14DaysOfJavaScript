@@ -15,4 +15,4 @@
 | ✅  | Step Progress Bar         | 20-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) | [Click Here](https://astounding-manatee-3b3d9d.netlify.app/) |
 | ✅  | English Dictionary        | 21-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/English%20Dictionary) | [Click Here](https://loquacious-panda-ca142f.netlify.app/) |
 | ✅  | Random Quote Generator    | 22-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Random%20Quote%20Generator) | [Click Here](https://stellular-boba-3909bd.netlify.app/) |
-| ❌ | Note App                  | 23-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Note%20App) | Coming Soon    |
+| ✅  | Note App                  | 23-Feb-2023 | [Click Here](https://github.com/HarshDeep61034/14DaysOfJavascript/tree/main/Note%20App) | [Click Here](https://teal-cocada-2166cd.netlify.app/) |
